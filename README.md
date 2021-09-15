@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cydn
-- 👀 I’m interested in eating, eating and eating
-- 🌱 I’m currently learning applied electromagnetics and power electricity
+- 👋 Hi, I’m @ablwbly
+- 👀 I’m interested in eating, cooking and exploring
+- 🌱 I’m currently learning parallel computing and embeded system.
 - 💞️ I’m looking to collaborate on financial, math and coding for data processing.
 - 📫 How to reach me: DO NOT REPLY!
 
